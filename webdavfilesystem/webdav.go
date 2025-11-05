@@ -7,7 +7,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/socle-framework/filesystems"
+	"github.com/socle-lab/filesystems"
 	"github.com/studio-b12/gowebdav"
 )
 

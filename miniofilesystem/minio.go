@@ -9,7 +9,7 @@ import (
 
 	"github.com/minio/minio-go/v7"
 	"github.com/minio/minio-go/v7/pkg/credentials"
-	"github.com/socle-framework/filesystems"
+	"github.com/socle-lab/filesystems"
 )
 
 // Minio is the overall type for the minio filesystem, and contains

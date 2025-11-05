@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/pkg/sftp"
-	"github.com/socle-framework/filesystems"
+	"github.com/socle-lab/filesystems"
 	"golang.org/x/crypto/ssh"
 )
 
